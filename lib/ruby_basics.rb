@@ -22,6 +22,8 @@ def last_evaluated_value
 "hi"
 end
 
-def pizza_party
+def pizza_party(topping="peppers")
+  "#{peppers}"
+  
 
 end
